@@ -85,8 +85,8 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=-Wpd7FcAAAAJ&hl=en"
-  email            : "dapengchenxjtu@gmail.com"
+  googlescholar    : https://scholar.google.com/citations?user=-Wpd7FcAAAAJ&hl=en
+  email            : dapengchenxjtu@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Dapeng-Chen-11"
   uri              : 
   bitbucket        :
